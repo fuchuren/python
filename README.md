@@ -1,1 +1,3 @@
-# python
+learning python now
+
+late bloomer
